@@ -1,0 +1,26 @@
+{
+  "name": "@fvlab/microinsurance-sdk",
+  "version": "1.0.2",
+  "description": "Models, interfaces and base classes to support basic key-value configuration storage at global and user levels",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FairventuresLab/microinsurance-sdk-npm.git"
+  },
+  "author": "FairVentures Lab",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FairventuresLab/microinsurance-sdk-npm/issues"
+  },
+  "homepage": "https://github.com/FairventuresLab/microinsurance-sdk-npm#readme",
+  "devDependencies": {
+    "tslint": "^5.8.0",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {}
+}
